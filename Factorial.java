@@ -5,6 +5,6 @@ public class Factorial {
         for(int i = 1; i <= num; ++i) {
             factorial *= i;
         }
-        System.out.printf("Factorial of %d = %d", num, factorial);
+        System.out.printf("Factorial of 5 is  %d = %d", num, factorial);
     }
 }
